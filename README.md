@@ -13,18 +13,19 @@ They are grouped into several realms as follows
 * Java
 * Kotlin
 * Scala
-* Cloujure
+* Clojure
 
 **Functional**
 * Elixir
 * Haskell
 * Ocaml
 * Scala
-* Cloujure
+* Clojure
 
 **LowLevel**
 * Go
-* C++ / C
+* C++
+* C
 * Rust
 
 **XSharp**
