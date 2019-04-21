@@ -5,30 +5,25 @@ They are grouped into several realms as follows
 
 **Scripting**
 * Python
-* Grovvy
-* JavaScript
+* Groovy
 * TypeScript
 
-**JVM**
+**JVM/NET**
 * Java
 * Kotlin
-* Scala
-* Cloujure
+* C#
 
 **Functional**
-* Elixir
-* Haskell
-* Ocaml
+* Clojure
 * Scala
-* Cloujure
+* Elixir
+* F#
 
 **LowLevel**
 * Go
-* C++ / C
+* C++
 * Rust
 
-**XSharp**
-* C#
-* F#
 
 Each kingdom will evolve with challenges included in HackerRank https://www.hackerrank.com/dashboard
+

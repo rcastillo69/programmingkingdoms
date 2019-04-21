@@ -1,0 +1,19 @@
+FROM node
+
+MAINTAINER "Randolfo Castillo | castillo.randolfo@gmail.com | @castillo9x"
+
+ENV NODE_ENV=develop
+ENV PORT=3000
+
+RUN mkdir -p /app
+
+WORKDIR /app
+
+COPY src/package.json /app
+COPY src/app.js /app
+
+RUN ["npm","install"]
+
+EXPOSE 3000
+
+
